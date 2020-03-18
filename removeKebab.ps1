@@ -91,8 +91,7 @@ $ServiceRegistry =@{
 $opt_intelhdg = Servico "igfxCUIService2.0.0.0" #Intel HD Graphics (Use se não utilizar da placa dedicada INTEL)
 
 
-$OptServiceRegistry =@
-{
+$OptServiceRegistry =@{
 	opt_intelhdg=$opt_intelhdg
 }
 
